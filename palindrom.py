@@ -7,34 +7,3 @@ def palindrom(word) -> str:
         print("Это слово не палиндром")
 
 palindrom(word = input("Напиши любое слово: "))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
